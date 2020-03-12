@@ -1,0 +1,6 @@
+1
+GA4(Add)
+3
+FA4(y,y,x) => GA4(Add)
+AB4(x,y,z) => FA4(x,y,y)
+AB4(Random,Sub,Randomm)
